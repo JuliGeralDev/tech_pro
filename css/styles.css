@@ -65,3 +65,11 @@ img{
 .text-center{
     text-align: center;
 }
+
+/**Degradados */ 
+.degradado-verde{
+    color: transparent;
+    background: linear-gradient(to right, var(--primario) 0%, var(--secundario) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
