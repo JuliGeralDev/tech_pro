@@ -48,17 +48,6 @@ To view this project locally:
 2. Navigate to the project directory  
 3. Open `index.html` in your browser
 
-## 🖼️ Screenshots
-
-### 📌 Header Section  
-![Header](ruta/a/la/imagen)
-
-### 🎧 Product Models  
-![Models](ruta/a/la/imagen)
-
-### 📬 Newsletter Section  
-![Newsletter](ruta/a/la/imagen)
-
 ## 👩‍💻 Author
 
 Juliana García Corredor  
