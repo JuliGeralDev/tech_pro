@@ -6,7 +6,7 @@
 
 ## 🔗 Live Preview
 
-[👉 View the Demo on Netlify]()
+[👉 View the Demo on Netlify](https://techpro-juligeraldev.netlify.app/)
 
 ## ✨ Features
 
